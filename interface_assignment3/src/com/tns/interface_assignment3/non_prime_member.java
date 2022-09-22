@@ -7,7 +7,7 @@ public class non_prime_member implements interface_class {
 	@Override
 	public void delivary() {// calling interface method.
 		int ammount = 100;
-		System.out.println("Delivary charges these account is"+ammount);
+		System.out.println("Delivary charges these account is = "+ammount);
 		
 		
 	}
